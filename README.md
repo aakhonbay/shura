@@ -1,0 +1,2 @@
+# shura
+blog and forum
